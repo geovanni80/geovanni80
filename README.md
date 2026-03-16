@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CB56F7&center=true&width=435&lines=My+name+is+Geovanni+Carlos)](https://git.io/typing-svg)
 ## Hi, my name is Geovanni Carlos
 I'm studying software engineering at Unifil Londrina
+
 🖥️Currently i'm more focused on:
 
 <div display=inline>
